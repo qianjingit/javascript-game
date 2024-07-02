@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav p{
+    text-align: center;
+}
+#box{
+    height: 80vh;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
